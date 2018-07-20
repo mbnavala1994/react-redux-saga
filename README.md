@@ -32,7 +32,7 @@ To update your npm
 npm install npm@latest -g
 
 Clone Project
-git clone https://github.com/razorthinksoftware/bigbrain-ui-3.git
+git clone https://github.com/mbnavala1994/react-redux-saga.git
 
 Install Packages
 cd react-redux-saga
